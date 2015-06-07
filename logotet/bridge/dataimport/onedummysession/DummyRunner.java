@@ -12,8 +12,7 @@ import java.io.FileNotFoundException;
 import java.text.ParseException;
 
 /**
- * Created by IntelliJ IDEA.
- * User: jankovicb
+ *
  * Date: May 13, 2009
  * Time: 12:04:27 PM
  * To change this template use File | Settings | File Templates.

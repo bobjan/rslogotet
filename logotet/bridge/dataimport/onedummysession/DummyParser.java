@@ -8,8 +8,7 @@ import java.util.NoSuchElementException;
 import java.util.StringTokenizer;
 
 /**
- * Created by IntelliJ IDEA.
- * User: jankovicb
+ *
  * Date: May 13, 2009
  * Time: 11:55:29 AM
  * To change this template use File | Settings | File Templates.

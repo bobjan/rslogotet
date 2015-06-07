@@ -6,8 +6,7 @@ import rs.logotet.helper.parser.Parser;
 import rs.logotet.helper.parser.ParserListener;
 
 /**
- * Created by IntelliJ IDEA.
- * User: jankovicb
+ *
  * Date: May 13, 2009
  * Time: 12:04:01 PM
  * To change this template use File | Settings | File Templates.
